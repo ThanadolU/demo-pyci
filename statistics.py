@@ -1,5 +1,7 @@
 """Module containing functions for calculating some statistics."""
 
+from math import sqrt
+
 
 def average(data):
     """Return the average of a list of numeric values in data."""
